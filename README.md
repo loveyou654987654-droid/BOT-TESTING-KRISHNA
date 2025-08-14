@@ -1,103 +1,23 @@
-# 🤖 Messenger Bot by Uzair Rajput
+─━━◉❖𝐊𝐑𝐈𝐒𝐇𝐍𝐀≛𝐁𝐀𝐁𝐔≛𝐁𝐎𝐓❖◉━━─
 
-Welcome to the official **Messenger Bot** developed by **Uzair Rajput** — a smart, fun-loving, and powerful bot for Facebook Messenger! 🎉
 
-![imgur](https://i.imgur.com/rpCMuwA.jpeg)
+कृष्णा लीजेंड दवंग बॉय प्यार करने वाले का प्यारा हु और दुश्मनो का बाप हु  अगर आपको कोई हेल्प चाहिए तो मेरे बॉस ◉❖कृष्णा≛लेजेंड❖◉ से बात करो FACEBOOK ID👇👇https://www.facebook.com/profile.php?id=61573328623221
 
-This bot is built using **Node.js** and supports cool commands like media downloads, image pairing, and chat automation. Lightweight, fast, and perfect for group fun!
+## <h3 align="center">
+  
+  <p align="center"><img src="https://img.shields.io/badge/𝐖𝐄𝐋𝐂𝐎𝐌𝐄%20TO -✦𝐊𝐑𝐈𝐒𝐇𝐍𝐀✦𝐁𝐀𝐁𝐔✦𝐁𝐎𝐓-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  
+</h3>
+<img align="right" width="200px" alt="GIF" src="https://i.imgur.com/MXpmeWH.gif" />
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=─━━◉❖𝗞𝗥𝗜𝗦𝗛𝗡𝗔≛𝐋𝐄𝐆𝐄𝐍𝐃❖◉━━─+;─━━◉❖कृष्णा≛लेजेंड❖◉━━─&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
-## 🚀 Features
 
-- 🎵 YouTube Audio/Video Downloader  
-- 💞 Fun Pairing Command (`.pair6 @user`)  
-- 🖼️ Image Manipulation with Avatars  
-- 🔄 Auto-replies & Custom Commands  
-- 📡 Lightweight, Fast, and Group Friendly  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+918094828237)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61573328623221)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/krishna_brand_legend?igsh=YnV5dnp4YThnd2di==)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/61573328623221)
 
----
 
-## 🛠 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/uzairrajput/messenger-bot.git
-cd messenger-bot
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install fca-mtx-uzair 
-```
-
-### 3. Configure Your Login
-
-Use either `appstate.json` or email/password in a `.env` or `config.json` file:
-
-```json
-{
-  "facebook": {
-    "email": "your-email",
-    "password": "your-password"
-  }
-}
-```
-
-> 🔐 Tip: Use AppState login for safer, secure authentication.
-
----
-
-## 💬 Usage
-
-Simply chat in Messenger:
-
-```bash
-.pair6 @username   # Pair yourself with someone in the group ❤️
-.music [link]      # Download music from YouTube 🎶
-.video [link]      # Download YouTube video 🎥
-.help              # View all commands
-```
-
-Bot will automatically respond in your group or chat.
-
----
-
-## 📁 Adding Your Own Commands
-
-1. Go to `commands/` folder  
-2. Create a new file like `hello.js`:
-
-```js
-module.exports.config = {
-  name: "hello",
-  description: "Says hello!"
-};
-
-module.exports.run = async function({ api, event }) {
-  return api.sendMessage("Hello from Uzair's bot!", event.threadID);
-};
-```
-
-Easy to extend and write your own logic 💡
-
----
-
-## 👑 Author
-
-**Developed by:** [Uzair Rajput](https://github.com/uzairrajput)  
-💬 *“Code karo, masti karo, aur Messenger pe chha jao!”*
-
----
-
-## 📄 License
-
-Licensed under the **MIT License** — free to use, share, and improve.
-
----
-
-## 🌟 Star the Project
-
-If you like this bot, give it a ⭐ on GitHub and share it with friends!
+![Image](https://i.imgur.com/Q0pOnWY.jpeg)
+                       ─━━◉❖कृष्णा≛बाबु≛बोट❖◉━━─
